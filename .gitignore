@@ -1,0 +1,9 @@
+.idea
+node_modules
+package-lock.json
+/logs
+dist
+*.exe
+.env
+input_proxies.txt
+output_proxies.txt
